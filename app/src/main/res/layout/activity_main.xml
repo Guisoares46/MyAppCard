@@ -9,9 +9,23 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+
     <include
-        layout="@layout/card_display"
+        layout="@layout/card_basquete"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp" />
+
+    <include
+        layout="@layout/card_exercicio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" />
+
+    <include
+        layout="@layout/card_natacao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" />
 
 </LinearLayout>
