@@ -17,6 +17,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Tênis"
+            android:textColor="#FFFFFF"
             android:textSize="40sp"
             android:textStyle="bold" />
 
@@ -41,6 +42,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Jõao Fonseca"
+            android:textColor="#FFFFFF"
             android:textSize="20dp"
             android:textStyle="bold" />
 
@@ -48,6 +50,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="João Fonseca tem tudo para dominar a década': de volta a Paris, Guga projeta sucesso do novo fenômeno do tênis"
+            android:textColor="#FFFFFF"
             android:textSize="12dp"
             android:textStyle="bold" />
 
